@@ -1,0 +1,14 @@
+.Logo{
+	padding-Left : 80px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.Search{
+	padding-left: 320px;
+}
+
+.User{
+	margin-left: 320px;
+	 box-shadow: 3px 3px 3px #f4c983;
+	 color: #5b5b5b;
+}
